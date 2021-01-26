@@ -1,1 +1,1 @@
-git pull
+git -C /var/www pull
